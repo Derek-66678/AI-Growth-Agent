@@ -81,36 +81,17 @@ DeepSeek
 
 ## 首页指标展示
 
-![KPI Dashboard](assets/kpi_dashboard.png)
+![KPI Dashboard](assets/kpi_dashboard.png.png)
 
 
 ## AI增长分析结果
 
-![AI Growth Report](assets/ai_growth_report.png)
+![AI Growth Report](assets/ai_growth_report.png.png)
 
 我这样写readme行不行
 
 
-## Demo
 
-支持问题：
-
-- 哪个渠道ROI最高？
-- ROI下降原因？
-- 用户增长分析？
-- 产品运营优化建议？
-
-# 📊 Dashboard Preview
-
-
-## 首页指标展示
-
-![KPI Dashboard](assets/kpi_dashboard.png)
-
-
-## AI增长分析结果
-
-![AI Growth Report](assets/ai_growth_report.png)
 
 
 ## 运行
