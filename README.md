@@ -88,7 +88,6 @@ DeepSeek
 
 ![AI Growth Report](assets/ai_growth_report.png.png)
 
-我这样写readme行不行
 
 
 
