@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# API Key
+*.key
+
+# Database
+*.db
+*.sqlite
+
+# Vector database
+vector_db/
+
+# Model cache
+.cache/
+
+# IDE
+.vscode/
+
+# Windows
+Thumbs.db
