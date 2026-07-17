@@ -14,30 +14,6 @@
 
 ## 技术栈
 
-Python
-LangChain
-DeepSeek API
-FAISS
-Streamlit
-SQLite
-
-
-# AI-Growth-Agent
-
-基于 LangChain + DeepSeek + RAG + SQL Agent 的互联网增长分析智能体。
-
-## 项目介绍
-
-实现一个 AI 增长分析助手，可以：
-
-- SQL Agent 自动分析业务数据库
-- RAG Agent 检索运营规则知识库
-- DeepSeek LLM 生成增长策略
-- Streamlit Dashboard 可视化业务指标
-
-
-## 技术栈
-
 - Python
 - LangChain
 - DeepSeek API
